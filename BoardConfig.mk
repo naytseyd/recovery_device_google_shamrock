@@ -41,10 +41,6 @@ TARGET_CPU_CORTEX_A53 := true
 
 TARGET_USES_64_BIT_BINDER := true
 
-# Bootloader
-TARGET_BOOTLOADER_BOARD_NAME := MSM8952
-TARGET_NO_BOOTLOADER := true
-
 # Crypto
 #TARGET_HW_DISK_ENCRYPTION := true
 #TARGET_CRYPTFS_HW_PATH := device/qcom/common/cryptfs_hw
